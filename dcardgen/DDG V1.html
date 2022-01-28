@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <style>
+    .h2 {
+        font-family:'Courier New', Courier, monospace,;
+      }
+      body {
+          background-color: black; ;
+      }
+      </style>
+</head>
+
+<body style="color: white;">
+
+
+<script>
+    function process()
+        {
+                       
+            var query = "" + document.getElementById("query").value
+            
+            var fewer = "+-" + document.getElementById("fewer").value
+            // the if nothing then remove syntax otherwise stay the same
+            if (fewer == "+-") {
+                 var fewer = ""
+                } else {
+                    var fewer = "+-" + document.getElementById("fewer").value
+                }
+
+            var more = "+%2B" + document.getElementById("more").value
+            if (more == "+%2B") {
+                 var more = ""
+                } else {
+                    var more = "+%2B" + document.getElementById("more").value
+                }
+            var file = "+filetype%3A" + document.getElementById("file").value
+            if (file == "+filetype%3A") {
+                 var file = ""
+                } else {
+                    var file = "+filetype%3A" + document.getElementById("file").value 
+                }
+            var site = "+site%3A" + document.getElementById("site").value
+            if (site == "+site%3A") {
+                 var site = ""
+                } else {
+                    var site = "+site%3A" + document.getElementById("site").value
+                }
+            var title = "+intitle%3A" + document.getElementById("intitle").value
+            if (title == "+intitle%3A") {
+                 var title = ""
+                } else {
+                    var title = "+intitle%3A" + document.getElementById("intitle").value
+                }
+            var phrase = "+inurl%3A" + document.getElementById("inurl").value
+            if (phrase == "+inurl%3A") {
+                 var phrase = ""
+                } else {
+                    var phrase = "+inurl%3A" + document.getElementById("inurl").value 
+                }
+            if (document.getElementById("query") !== "") {
+                location.href = "http://duckduckgo.com/?q=" + query + fewer + more + file + site + title + phrase + "&t=newext&atb=v286-1&ia=" + query
+                                return false
+            }
+           
+            function myFunction() {
+    window.open("http://www.google.com/");
+    window.open("https://www.w3schools.com/");
+  }
+
+        }
+
+</script>
+
+<h2><b>DUCKDUCKGO</b> Advanced Search</h2>
+
+<form onSubmit="return process();">
+    Query: <input type="text" name="url_compound" id="query">
+     </form>
+ <p></p>
+ <form onSubmit="return process();">
+     Show Fewer Of...: <input type="text" name="url_compound" id="fewer">
+         </form>   
+ <p></p>        
+ <form onSubmit="return process();">
+     Show More Of...: <input type="text" name="url_compound" id="more">  
+         </form>
+ <p></p>
+ <form onSubmit="return process();">
+     File Type: <input type="text" name="url" id="file">  
+         </form>
+ <p></p>
+ <form onSubmit="return process();">
+     Site: <input type="text" name="url" id="site">  
+         </form>
+ <p></p>
+ <form onsubmit="return process();">
+     Phrase In Title: <input type="text" name="url" id="intitle">
+ </form>
+ <p></p>
+ <form onsubmit="return process();">
+     Phrase In URL: <input type="text" name="url" id="inurl">
+     <input type="submit" value="SEARCH">
+ </form>
+
+
+ <button onclick="myFunction()">Open Windows</button>
+
+
+ </body>
+ </html>
