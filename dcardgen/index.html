@@ -11,7 +11,7 @@
 <button onclick="randomixer()">  <img src="http://wiki.dominionstrategy.com/images/thumb/2/21/Dominion2.jpg/300px-Dominion2.jpg"> </button>
 <button onclick="randomixerseaside()">  <img src="http://wiki.dominionstrategy.com/images/8/84/Seaside2.jpg"> </button>
 <p id="demo2"></p>
-
+<p id="demo3"></p>
 
 
 <button onclick="helper()"> Get Help </button>
@@ -33,7 +33,7 @@ var seasidecards = [" Embargo", " Haven",  " Lighthouse"," Native Village"," Pea
 function randomixerseaside() {
    seasidecards.sort(function(a, b){return 0.5 - Math.random()});
    var final =  seasidecards.slice(1,11)
-   document.getElementById("demo2").innerHTML = final.toString()  
+   document.getElementById("demo3").innerHTML = final.toString()  
 }
 </script>
 <script>
