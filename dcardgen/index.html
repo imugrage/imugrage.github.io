@@ -9,7 +9,7 @@
 
 
 <button onclick="randomixer()">  <img src="http://wiki.dominionstrategy.com/images/thumb/2/21/Dominion2.jpg/300px-Dominion2.jpg"> </button>
-
+<button onclick="randomixerseaside()">  <img src="http://wiki.dominionstrategy.com/images/8/84/Seaside2.jpg"> </button>
 <p id="demo2"></p>
 
 
@@ -28,14 +28,13 @@ function randomixer() {
 </script>
 <!-- Seaside -->
 <script>
-var seasidecards = [" Cellar", " Chapel", " Moat", " Harbinger", " Merchant", " Vassal", " Village", " Workshop", " Bureaucrat", " Gardens", " Militia", " Moneylender", " Poacher", " Remodel", " Sentry", " Throne Room", " Bandit", " Council Room", " Festival", " Labratory", " Library", " Market", " Mine", " Sentry", " Witch", " Artisian"];
+var seasidecards = [" Embargo", " Haven",  " Lighthouse"," Native Village"," Pearl Diver"," Ambassador", " Fishing Village", " Lookout", " Smugglers", " Warehouse", " Caravan", " Cutpurse", " Island", " Navigator", " Pirate Ship"," Salvager", " Sea Hag", " Treasure Map", " Bazaar", " Explorer", " Ghost Ship", " Merchant Ship", " Outpost", " Tactician", " Treasury", " Wharf"];
  
- function randomixer() {
+function randomixerseaside() {
    seasidecards.sort(function(a, b){return 0.5 - Math.random()});
    var final =  seasidecards.slice(1,11)
-   document.getElementById("demo2").innerHTML = final.toString()
-   
- }
+   document.getElementById("demo2").innerHTML = final.toString()  
+}
 </script>
 <script>
   var help = "http://wiki.dominionstrategy.com/index.php/Main_Page"
