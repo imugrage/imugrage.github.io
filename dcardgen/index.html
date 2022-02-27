@@ -13,7 +13,24 @@
 <p id="demo2"> </p>
 <p id="demo3"></p>
 
+
+<p id="demo4"> </p>
+
 <button onclick="helper()"> Get Help </button>
+
+<script>
+  function output(set1, set2) {
+    var output = [string(set1), string(set2)]
+    output.sort(function(a, b){return 0.5 - Math.random()});
+    var outputfinal =  output.slice(1,11)
+    document.getElementById("demo4").innerHTML = outputfinal.toString() 
+  }
+</script>
+
+
+
+
+
 
 <!-- Dominion -->
 <script>
