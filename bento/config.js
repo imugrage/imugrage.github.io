@@ -157,7 +157,7 @@ const CONFIG = {
       ],
     },
     {
-      icon: 'music',
+      icon: 'trello',
       id: '2',
       links: [
         {
