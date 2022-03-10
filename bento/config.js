@@ -209,20 +209,20 @@ const CONFIG = {
       id: '2',
       links: [
         {
-          name: 'Front',
-          link: 'https://www.reddit.com/r/Frontend/',
+          name: 'Google Drive',
+          link: 'https://drive.google.com',
         },
         {
-          name: 'Rust',
-          link: 'https://www.reddit.com/r/rust/',
+          name: 'Gmail',
+          link: 'https://mail.google.com',
         },
         {
-          name: 'Go',
-          link: 'https://www.reddit.com/r/golang/',
+          name: 'Italian Music',
+          link: 'https://music.youtube.com/watch?v=_26BhViw28s&list=RDAMVM_26BhViw28s',
         },
         {
-          name: 'Repos',
-          link: 'https://github.com/migueravila',
+          name: 'Jap 80s Mix',
+          link: 'https://youtu.be/TA9LVzuC7z4',
         },
       ],
     },
