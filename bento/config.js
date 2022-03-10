@@ -221,8 +221,8 @@ const CONFIG = {
           link: 'hhttp://wiki.dominionstrategy.com/index.php/Main_Pagettps://music.youtube.com/watch?v=_26BhViw28s&list=RDAMVM_26BhViw28s',
         },
         {
-          name: 'Jap 80s Mix',
-          link: 'https://youtu.be/TA9LVzuC7z4',
+          name: 'GitHub Index',
+          link: 'https://imugrage.github.io/',
         },
       ],
     },
