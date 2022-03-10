@@ -183,7 +183,7 @@ const CONFIG = {
   // Second Links Container
   secondListsContainer: [
     {
-      icon: 'binary',
+      icon: 'compass',
       id: '1',
       links: [
         {
@@ -191,16 +191,16 @@ const CONFIG = {
           link: 'https://www.ethosdebate.com/blog/',
         },
         {
-          name: 'Reddit',
-          link: 'https://www.reddit.com',
+          name: 'Investopedia',
+          link: 'https://www.investopedia.com/',
         },
         {
-          name: 'Hashnode',
-          link: 'https://www.hashnode.com',
+          name: 'CCA Debate',
+          link: 'https://ccadebate.org/debate',
         },
         {
-          name: 'Pocket',
-          link: 'https://www.pocket.com',
+          name: 'Cato Institute',
+          link: 'https://www.cato.org/',
         },
       ],
     },
