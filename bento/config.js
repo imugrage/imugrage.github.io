@@ -84,7 +84,7 @@ const CONFIG = {
     {
       id: '6',
       name: 'Ethos',
-      icon: 'youtube',
+      icon: 'calendar',
       link: 'https://www.ethosdebate.com/blog/',
     },
   ],
