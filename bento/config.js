@@ -54,7 +54,7 @@ const CONFIG = {
     {
       id: '1',
       name: 'Drive',
-      icon: '01d',
+      icon: 'glasses',
       link: 'https://drive.google.com/',
     },
     {
