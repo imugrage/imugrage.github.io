@@ -65,9 +65,9 @@ const CONFIG = {
     },
     {
       id: '3',
-      name: 'Todoist',
+      name: 'Investopedia',
       icon: 'trello',
-      link: 'https://ccadebate.org/debate',
+      link: 'https://www.investopedia.com/',
     },
     {
       id: '4',
