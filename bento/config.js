@@ -83,9 +83,9 @@ const CONFIG = {
     },
     {
       id: '6',
-      name: 'Odysee',
+      name: 'Ethos',
       icon: 'youtube',
-      link: 'https://odysee.com/',
+      link: 'https://www.ethosdebate.com/blog/',
     },
   ],
 
