@@ -205,7 +205,7 @@ const CONFIG = {
       ],
     },
     {
-      icon: 'github',
+      icon: 'clipboard-list',
       id: '2',
       links: [
         {
