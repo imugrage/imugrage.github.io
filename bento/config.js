@@ -187,8 +187,8 @@ const CONFIG = {
       id: '1',
       links: [
         {
-          name: 'Spotify',
-          link: 'https://www.spotify.com',
+          name: 'Ethos',
+          link: 'https://www.ethosdebate.com/blog/',
         },
         {
           name: 'Reddit',
