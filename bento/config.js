@@ -77,9 +77,9 @@ const CONFIG = {
     },
     {
       id: '5',
-      name: 'Reddit',
+      name: 'IMSDB',
       icon: 'glasses',
-      link: 'https://reddit.com',
+      link: 'https://imsdb.com/',
     },
     {
       id: '6',
