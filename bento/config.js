@@ -157,7 +157,7 @@ const CONFIG = {
       ],
     },
     {
-      icon: 'coffee',
+      icon: 'train',
       id: '2',
       links: [
         {
