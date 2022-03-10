@@ -53,9 +53,9 @@ const CONFIG = {
   firstButtonsContainer: [
     {
       id: '1',
-      name: 'Github',
-      icon: 'github',
-      link: 'https://github.com/',
+      name: 'Drive',
+      icon: 'drive',
+      link: 'https://drive.google.com/',
     },
     {
       id: '2',
