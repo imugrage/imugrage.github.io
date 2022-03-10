@@ -217,8 +217,8 @@ const CONFIG = {
           link: 'https://mail.google.com',
         },
         {
-          name: 'Italian Music',
-          link: 'https://music.youtube.com/watch?v=_26BhViw28s&list=RDAMVM_26BhViw28s',
+          name: 'Dominion',
+          link: 'hhttp://wiki.dominionstrategy.com/index.php/Main_Pagettps://music.youtube.com/watch?v=_26BhViw28s&list=RDAMVM_26BhViw28s',
         },
         {
           name: 'Jap 80s Mix',
