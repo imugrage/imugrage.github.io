@@ -124,7 +124,7 @@ const CONFIG = {
       id: '6',
       name: 'Figma',
       icon: 'figma',
-      link: 'https://figma.com/',
+      link: 'https://iconarchive.com/show/google-play-icons-by-marcus-roberto/Google-Drive-icon.html',
     },
   ],
 
