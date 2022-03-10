@@ -161,20 +161,20 @@ const CONFIG = {
       id: '2',
       links: [
         {
-          name: 'Linkedin',
-          link: 'https://www.linkedin.com',
+          name: 'Blender Manual',
+          link: 'https://docs.blender.org/manual/en/latest/',
         },
         {
-          name: 'Dribbble',
-          link: 'https://www.dribbble.com',
+          name: 'Blender Studio',
+          link: 'https://studio.blender.org/training/animation-fundamentals/',
         },
         {
-          name: 'Trello',
-          link: 'https://www.trello.com',
+          name: 'Thingiverse',
+          link: 'https://www.thingiverse.com/',
         },
         {
-          name: 'Slack',
-          link: 'https://www.slack.com',
+          name: 'Mugrage Net',
+          link: 'http://192.168.33.100/',
         },
       ],
     },
