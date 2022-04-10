@@ -78,6 +78,28 @@
     <script>
       lucide.createIcons();
     </script>
+
+
+<p><button onclick="myFunction()">Click Me</button></p>
+
+<div id="myDIV">Hello</div>
+
+<script>
+function myFunction() {
+  var x = document.getElementById("myDIV");
+  if (x.innerHTML === "Hello") {
+    x.innerHTML = "Swapped text!";
+  } else {
+    x.innerHTML = "Hello";
+  }
+}
+</script>
+
+
+
+
+
+
   </body>
   <!-- Developed and designed by Miguel Ávila: -->
   <!-- https://avila.sh-->
