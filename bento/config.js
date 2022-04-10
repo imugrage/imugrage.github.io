@@ -49,6 +49,7 @@ const CONFIG = {
   // ┌┐ ┬ ┬┌┬┐┌┬┐┌─┐┌┐┌┌─┐
   // ├┴┐│ │ │  │ │ ││││└─┐
   // └─┘└─┘ ┴  ┴ └─┘┘└┘└─┘
+// Buttons are not used in current mode 4/10/22
 
   firstButtonsContainer: [
     {
