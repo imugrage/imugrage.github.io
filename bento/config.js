@@ -143,16 +143,16 @@ const CONFIG = {
           link: 'https://open.spotify.com/collection/playlists',
         },
         {
-          name: 'Japanese Movie',
-          link: 'https://youtu.be/TA9LVzuC7z4',
+          name: 'BGMC',
+          link: 'https://www.youtube.com/user/cafemusicbgmchannel',
         },
         {
           name: 'Italian Chill',
           link: 'https://music.youtube.com/watch?v=_26BhViw28s&list=RDAMVM_26BhViw28s',
         },
         {
-          name: 'Collectors Edition',
-          link: 'https://open.spotify.com/album/3gyZmYWe6uRcXiwVPa1QnU',
+          name: 'Japanese',
+          link: 'https://www.youtube.com/watch?v=TA9LVzuC7z4',
         },
       ],
     },
@@ -165,16 +165,16 @@ const CONFIG = {
           link: 'https://docs.blender.org/manual/en/latest/',
         },
         {
-          name: 'Blender Studio',
-          link: 'https://studio.blender.org/training/animation-fundamentals/',
+          name: 'Blender Stack Exchange',
+          link: 'https://blender.stackexchange.com/',
         },
         {
-          name: 'Thingiverse',
+          name: 'Blender Artists',
+          link: 'https://blenderartists.org/',
+        },
+        {
+          name: 'Thingverse',
           link: 'https://www.thingiverse.com/',
-        },
-        {
-          name: 'Mugrage Net',
-          link: 'http://192.168.33.100/',
         },
       ],
     },
@@ -187,20 +187,20 @@ const CONFIG = {
       id: '1',
       links: [
         {
-          name: 'Ethos',
+          name: 'RSS Reader',
           link: 'https://www.ethosdebate.com/blog/',
         },
         {
-          name: 'Investopedia',
-          link: 'https://www.investopedia.com/',
+          name: 'Github',
+          link: 'https://imugrage.github.io/',
         },
         {
-          name: 'CCA Debate',
-          link: 'https://ccadebate.org/debate',
+          name: 'Pi Page',
+          link: 'https://nmugrage.github.io/pipage/index.htm',
         },
         {
-          name: 'Cato Institute',
-          link: 'https://www.cato.org/',
+          name: 'DDG Advanced',
+          link: 'file:///C:/Users/imugrage/Documents/Code/DuckDuckGo%20Advanced%20Search/DDG%20V1.html',
         },
       ],
     },
@@ -217,12 +217,12 @@ const CONFIG = {
           link: 'https://mail.google.com',
         },
         {
-          name: 'Dominion',
-          link: 'hhttp://wiki.dominionstrategy.com/index.php/Main_Pagettps://music.youtube.com/watch?v=_26BhViw28s&list=RDAMVM_26BhViw28s',
+          name: 'Jet Pens',
+          link: 'https://www.jetpens.com/',
         },
         {
-          name: 'GitHub Index',
-          link: 'https://imugrage.github.io/',
+          name: 'Notion',
+          link: 'https://www.notion.so/Constructives-e900f3fdbd8e45e880fa13f0c55e05a1',
         },
       ],
     },
