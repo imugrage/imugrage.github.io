@@ -139,7 +139,7 @@ const CONFIG = {
       id: '1',
       links: [
         {
-          name: 'Playlists',
+          name: 'Spotify',
           link: 'https://open.spotify.com/collection/playlists',
         },
         {
@@ -151,8 +151,8 @@ const CONFIG = {
           link: 'https://music.youtube.com/watch?v=_26BhViw28s&list=RDAMVM_26BhViw28s',
         },
         {
-          name: 'Japanese',
-          link: 'https://www.youtube.com/watch?v=TA9LVzuC7z4',
+          name: 'YouTube BGM',
+          link: 'https://www.youtube.com/playlist?list=PLvXGShmhoiRb6dXhKu8eS8fyGzzCCxGgV',
         },
       ],
     },
