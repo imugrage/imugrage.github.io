@@ -191,7 +191,7 @@ const CONFIG = {
       links: [
         {
           name: 'RSS Reader',
-          link: 'https://www.ethosdebate.com/blog/',
+          link: 'http://192.168.33.100/freshrss/i/',
         },
         {
           name: 'Github',
@@ -225,7 +225,7 @@ const CONFIG = {
         },
         {
           name: 'Notion',
-          link: 'https://www.notion.so/Constructives-e900f3fdbd8e45e880fa13f0c55e05a1',
+          link: 'https://www.notion.so/Videos-to-Watch-85b3507bbbab4c17912fedd1bf7dc9a1',
         },
       ],
     },
