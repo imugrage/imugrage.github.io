@@ -141,7 +141,6 @@ const CONFIG = {
       icon: 'rss',
       id: '1',
       links: [
-
         {
           name: 'Pen Addict',
           link: 'https://www.penaddict.com/',
@@ -208,8 +207,6 @@ const CONFIG = {
           name: 'Spotify',
           link: 'https://open.spotify.com/collection/playlists',
         },
-
-
       ],
     },
 
