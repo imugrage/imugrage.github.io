@@ -194,8 +194,8 @@ const CONFIG = {
           link: 'http://192.168.33.100/freshrss/i/',
         },
         {
-          name: 'Github',
-          link: 'https://imugrage.github.io/',
+          name: '-',
+          link: '-',
         },
         {
           name: 'Pi Page',
