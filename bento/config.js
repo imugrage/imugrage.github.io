@@ -220,12 +220,12 @@ const CONFIG = {
           link: 'https://mail.google.com',
         },
         {
-          name: 'Jet Pens',
-          link: 'https://www.jetpens.com/',
+          name: 'YouTube',
+          link: 'https://www.youtube.com/',
         },
         {
-          name: 'Notion',
-          link: 'https://www.notion.so/Videos-to-Watch-85b3507bbbab4c17912fedd1bf7dc9a1',
+          name: 'Notion - Read Later',
+          link: 'https://www.notion.so/Read-Later-16474b75082e47d6bda3cc4df8527dc7',
         },
       ],
     },
