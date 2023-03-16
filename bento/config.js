@@ -146,8 +146,8 @@ const CONFIG = {
           link: 'https://open.spotify.com/collection/playlists',
         },
         {
-          name: 'BGMC',
-          link: 'https://www.youtube.com/user/cafemusicbgmchannel',
+          name: '-',
+          link: '-',
         },
         {
           name: '-',
@@ -159,6 +159,8 @@ const CONFIG = {
         },
       ],
     },
+
+  // 3D design for the win!
     {
       icon: 'cpu',
       id: '2',
@@ -183,7 +185,7 @@ const CONFIG = {
     },
   ],
 
-  // Second Links Container
+  // Second Links Container: Hobbies
   secondListsContainer: [
     {
       icon: 'compass',
@@ -194,8 +196,8 @@ const CONFIG = {
           link: 'http://192.168.33.100/freshrss/i/',
         },
         {
-          name: '-',
-          link: '-',
+          name: 'Pen Addict',
+          link: 'https://www.penaddict.com/',
         },
         {
           name: 'Pi Page',
@@ -207,6 +209,8 @@ const CONFIG = {
         },
       ],
     },
+
+  // Essentials - dont wanna open g apps launcher
     {
       icon: 'clipboard-list',
       id: '2',
