@@ -135,28 +135,29 @@ const CONFIG = {
   // │  │└─┐ │ └─┐
   // ┴─┘┴└─┘ ┴ └─┘
 
-  // First Links Container
+  // First Links Container: Music and ...
   firstlistsContainer: [
     {
       icon: 'rss',
       id: '1',
       links: [
+
         {
-          name: 'Spotify',
-          link: 'https://open.spotify.com/collection/playlists',
+          name: 'Pen Addict',
+          link: 'https://www.penaddict.com/',
         },
         {
-          name: '-',
-          link: '-',
+          name: 'Ethos',
+          link: 'https://www.ethosdebate.com/blog/',
         },
         {
-          name: '-',
-          link: '-',
+          name: 'Writers Lounge',
+          link: 'https://noahmugrage.wixsite.com/writerslounge',
         },
         {
-          name: 'TuneMyMusic',
-          link: 'https://app.tunemymusic.com/transfer',
-        },
+          name: 'Analog Office',
+          link: 'https://analogoffice.net/2023/02/13/mess-up-your.html',
+        },      
       ],
     },
 
@@ -185,7 +186,7 @@ const CONFIG = {
     },
   ],
 
-  // Second Links Container: Hobbies
+  // Second Links Container: Hobbies and Jam (Tech/Music)
   secondListsContainer: [
     {
       icon: 'compass',
@@ -196,17 +197,19 @@ const CONFIG = {
           link: 'http://192.168.33.100/freshrss/i/',
         },
         {
-          name: 'Pen Addict',
-          link: 'https://www.penaddict.com/',
-        },
-        {
           name: 'Pi Page',
           link: 'https://nmugrage.github.io/pipage/index.htm',
         },
         {
-          name: 'Ethos',
-          link: 'https://www.ethosdebate.com/blog/',
+          name: 'TuneMyMusic',
+          link: 'https://app.tunemymusic.com/transfer',
         },
+        {
+          name: 'Spotify',
+          link: 'https://open.spotify.com/collection/playlists',
+        },
+
+
       ],
     },
 
