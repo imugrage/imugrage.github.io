@@ -150,12 +150,12 @@ const CONFIG = {
           link: 'https://www.youtube.com/user/cafemusicbgmchannel',
         },
         {
-          name: 'Italian Chill',
-          link: 'https://music.youtube.com/watch?v=_26BhViw28s&list=RDAMVM_26BhViw28s',
+          name: '-',
+          link: '-',
         },
         {
-          name: 'YouTube BGM',
-          link: 'https://www.youtube.com/playlist?list=PLvXGShmhoiRb6dXhKu8eS8fyGzzCCxGgV',
+          name: 'TuneMyMusic',
+          link: 'https://app.tunemymusic.com/transfer',
         },
       ],
     },
@@ -202,8 +202,8 @@ const CONFIG = {
           link: 'https://nmugrage.github.io/pipage/index.htm',
         },
         {
-          name: 'DDG Advanced',
-          link: 'file:///C:/Users/imugrage/Documents/Code/DuckDuckGo%20Advanced%20Search/DDG%20V1.html',
+          name: 'Ethos',
+          link: 'https://www.ethosdebate.com/blog/',
         },
       ],
     },
@@ -221,7 +221,7 @@ const CONFIG = {
         },
         {
           name: 'YouTube',
-          link: 'https://www.youtube.com/',
+          link: 'https://www.youtube.com/feed/library',
         },
         {
           name: 'Notion - Read Later',
