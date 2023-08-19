@@ -196,8 +196,8 @@ const CONFIG = {
           link: 'http://192.168.33.100/freshrss/i/',
         },
         {
-          name: 'Pi Page',
-          link: 'https://nmugrage.github.io/pipage/index.htm',
+          name: 'The Dreamers',
+          link: 'https://open.spotify.com/user/31a6p42iinoui3a7fjnuwcynwhtm?si=395f14ce016d42ed',
         },
         {
           name: 'TuneMyMusic',
