@@ -135,7 +135,7 @@ const CONFIG = {
   // │  │└─┐ │ └─┐
   // ┴─┘┴└─┘ ┴ └─┘
 
-  // First Links Container: Music and ...
+  // First Links Container: Blogs
   firstlistsContainer: [
     {
       icon: 'rss',
@@ -185,7 +185,7 @@ const CONFIG = {
     },
   ],
 
-  // Second Links Container: Hobbies and Jam (Tech/Music)
+  // Second Links Container: Media and Productivity
   secondListsContainer: [
     {
       icon: 'compass',
@@ -196,41 +196,43 @@ const CONFIG = {
           link: 'http://192.168.33.100/freshrss/i/',
         },
         {
-          name: 'The Dreamers',
-          link: 'https://open.spotify.com/user/31a6p42iinoui3a7fjnuwcynwhtm?si=395f14ce016d42ed',
+          name: 'Omnivore',
+          link: 'https://omnivore.app/home',
         },
         {
           name: 'TuneMyMusic',
           link: 'https://app.tunemymusic.com/transfer',
         },
+       
         {
-          name: 'Spotify',
-          link: 'https://open.spotify.com/collection/playlists',
+          name: 'YouTube',
+          link: 'https://www.youtube.com/feed/library',
         },
       ],
     },
 
-  // Essentials - dont wanna open g apps launcher
+  // Essentials - Communication
     {
       icon: 'clipboard-list',
       id: '2',
       links: [
         {
           name: 'Google Drive',
-          link: 'https://drive.google.com',
+          link: 'https://drive.google.com/drive/my-drive',
         },
         {
           name: 'Gmail',
           link: 'https://mail.google.com',
         },
-        {
-          name: 'YouTube',
-          link: 'https://www.youtube.com/feed/library',
+       {
+          name: 'Discord',
+          link: 'https://discord.com/channels/@me',
         },
         {
-          name: 'Notion - Read Later',
-          link: 'https://www.notion.so/Read-Later-16474b75082e47d6bda3cc4df8527dc7',
-        },
+          name: 'Band',
+          link: 'https://band.us/home',
+        }, 
+  
       ],
     },
   ],
