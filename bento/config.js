@@ -46,6 +46,9 @@ const CONFIG = {
   hourDarkThemeActive: '18:30',
   hourDarkThemeInactive: '07:00',
 
+
+
+
   // ┌┐ ┬ ┬┌┬┐┌┬┐┌─┐┌┐┌┌─┐
   // ├┴┐│ │ │  │ │ ││││└─┐
   // └─┘└─┘ ┴  ┴ └─┘┘└┘└─┘
@@ -132,30 +135,32 @@ const CONFIG = {
   // │  │└─┐ │ └─┐
   // ┴─┘┴└─┘ ┴ └─┘
 
-  // First Links Container
+  // First Links Container: Blogs
   firstlistsContainer: [
     {
       icon: 'rss',
       id: '1',
       links: [
         {
-          name: 'Spotify',
-          link: 'https://open.spotify.com/collection/playlists',
+          name: 'Pen Addict',
+          link: 'https://www.penaddict.com/',
         },
         {
-          name: 'BGMC',
-          link: 'https://www.youtube.com/user/cafemusicbgmchannel',
+          name: 'Ethos',
+          link: 'https://www.ethosdebate.com/blog/',
         },
         {
-          name: 'Italian Chill',
-          link: 'https://music.youtube.com/watch?v=_26BhViw28s&list=RDAMVM_26BhViw28s',
+          name: 'Writers Lounge',
+          link: 'https://noahmugrage.wixsite.com/writerslounge',
         },
         {
-          name: 'YouTube BGM',
-          link: 'https://www.youtube.com/playlist?list=PLvXGShmhoiRb6dXhKu8eS8fyGzzCCxGgV',
-        },
+          name: 'Analog Office',
+          link: 'https://analogoffice.net/2023/02/13/mess-up-your.html',
+        },      
       ],
     },
+
+  // 3D design for the win!
     {
       icon: 'cpu',
       id: '2',
@@ -180,7 +185,7 @@ const CONFIG = {
     },
   ],
 
-  // Second Links Container
+  // Second Links Container: Media and Productivity
   secondListsContainer: [
     {
       icon: 'compass',
@@ -188,42 +193,46 @@ const CONFIG = {
       links: [
         {
           name: 'RSS Reader',
-          link: 'https://www.ethosdebate.com/blog/',
+          link: 'http://192.168.33.100/freshrss/i/',
         },
         {
-          name: 'Github',
-          link: 'https://imugrage.github.io/',
+          name: 'Omnivore',
+          link: 'https://omnivore.app/home',
         },
         {
-          name: 'Pi Page',
-          link: 'https://nmugrage.github.io/pipage/index.htm',
+          name: 'TuneMyMusic',
+          link: 'https://app.tunemymusic.com/transfer',
         },
+       
         {
-          name: 'DDG Advanced',
-          link: 'file:///C:/Users/imugrage/Documents/Code/DuckDuckGo%20Advanced%20Search/DDG%20V1.html',
+          name: 'YouTube',
+          link: 'https://www.youtube.com/feed/library',
         },
       ],
     },
+
+  // Essentials - Communication
     {
       icon: 'clipboard-list',
       id: '2',
       links: [
         {
           name: 'Google Drive',
-          link: 'https://drive.google.com',
+          link: 'https://drive.google.com/drive/my-drive',
         },
         {
           name: 'Gmail',
           link: 'https://mail.google.com',
         },
-        {
-          name: 'Jet Pens',
-          link: 'https://www.jetpens.com/',
+       {
+          name: 'Discord',
+          link: 'https://discord.com/channels/@me',
         },
         {
-          name: 'Notion',
-          link: 'https://www.notion.so/Constructives-e900f3fdbd8e45e880fa13f0c55e05a1',
-        },
+          name: 'Band',
+          link: 'https://band.us/home',
+        }, 
+  
       ],
     },
   ],
