@@ -17,9 +17,9 @@ const CONFIG = {
   twelveHourFormat: false,
 
   // Greetings
-  greetingMorning: '"What do you want to make today?" - Makoto Fuijimara',
-  greetingAfternoon: '"Wait and Hope" - Alexandre Dumas',
-  greetingEvening: '"Even darkness must pass" - Samwise Gamgee',
+  greetingMorning: '"What do you want to make today?"',
+  greetingAfternoon: '"Wait and Hope"',
+  greetingEvening: '"Even darkness must pass"',
   greetingNight: 'Go to Sleep!',
 
   // Layout
