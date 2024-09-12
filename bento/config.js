@@ -19,7 +19,7 @@ const CONFIG = {
   // Greetings
   greetingMorning: '"What do you want to make today?"',
   greetingAfternoon: '"Wait and Hope"',
-  greetingEvening: '"Even darkness must pass"\nSamwise Gamgee',
+  greetingEvening: '"Even darkness must pass"',
   greetingNight: 'Go to Sleep!',
 
   // Layout
