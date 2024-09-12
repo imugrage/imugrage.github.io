@@ -11,13 +11,13 @@ const CONFIG = {
   // └─┘┴ ┴└─┘┴└─┘└─┘
 
   // General
-  name: 'Sir Isaiah',
+  name: '',
   imageBackground: true,
   openInNewTab: true,
   twelveHourFormat: false,
 
   // Greetings
-  greetingMorning: 'Good Morning!',
+  greetingMorning: '"What do you want to make today?" - Makoto Fuijimara',
   greetingAfternoon: '"Wait and Hope" - Alexandre Dumas',
   greetingEvening: '"Even darkness must pass" - Samwise Gamgee',
   greetingNight: 'Go to Sleep!',
