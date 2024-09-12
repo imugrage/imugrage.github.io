@@ -138,48 +138,48 @@ const CONFIG = {
   // First Links Container: Blogs
   firstlistsContainer: [
     {
-      icon: 'rss',
+      icon: 'graduation-cap',
       id: '1',
       links: [
         {
-          name: 'Pen Addict',
-          link: 'https://www.penaddict.com/',
+          name: 'CU Gmail',
+          link: 'https://mail.google.com/mail/u/2/#inbox',
         },
         {
-          name: 'Ethos',
-          link: 'https://www.ethosdebate.com/blog/',
+          name: 'CU Drive',
+          link: 'https://drive.google.com/drive/folders/1ZgxxfS_P-PART8ryxRdj_gLtXYMHCS_r',
         },
         {
-          name: 'Writers Lounge',
-          link: 'https://noahmugrage.wixsite.com/writerslounge',
+          name: 'Canvas Dashboard',
+          link: 'https://cedarville.instructure.com/?login_success=1',
         },
         {
-          name: 'Analog Office',
-          link: 'https://analogoffice.net/2023/02/13/mess-up-your.html',
+          name: 'My CU',
+          link: 'https://mycu.cedarville.edu/',
         },      
       ],
     },
 
   // 3D design for the win!
     {
-      icon: 'cpu',
+      icon: 'pen-tool',
       id: '2',
       links: [
         {
-          name: 'Blender Manual',
-          link: 'https://docs.blender.org/manual/en/latest/',
+          name: 'Sometimes Gibbs',
+          link: 'https://sometimesgibbs.com/',
         },
         {
-          name: 'Blender Stack Exchange',
-          link: 'https://blender.stackexchange.com/',
+          name: 'Ethos Debate',
+          link: 'https://www.ethosdebate.com/blog/',
         },
         {
-          name: 'Blender Artists',
-          link: 'https://blenderartists.org/',
+          name: 'Omnivore',
+          link: 'https://omnivore.app/',
         },
         {
-          name: 'Thingverse',
-          link: 'https://www.thingiverse.com/',
+          name: 'S.D. Smith Dope Quotes',
+          link: 'https://sdsmith.com/dopequotes/',
         },
       ],
     },
