@@ -10,7 +10,7 @@ const CONFIG = {
   // ├┴┐├─┤└─┐││  └─┐
   // └─┘┴ ┴└─┘┴└─┘└─┘
 
-  // General!
+  // General
   name: '',
   imageBackground: true,
   openInNewTab: true,
