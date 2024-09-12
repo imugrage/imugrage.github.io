@@ -193,7 +193,7 @@ const CONFIG = {
       links: [
         {
           name: 'RSS Reader',
-          link: 'http://192.168.33.100/freshrss/i/',
+          link: 'https://mail.google.com/mail/u/2/',
         },
         {
           name: 'Omnivore',
