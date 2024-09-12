@@ -11,14 +11,14 @@ const CONFIG = {
   // └─┘┴ ┴└─┘┴└─┘└─┘
 
   // General
-  name: 'Master Isaiah',
+  name: 'Sir Isaiah',
   imageBackground: true,
   openInNewTab: true,
   twelveHourFormat: false,
 
   // Greetings
   greetingMorning: 'Good Morning!',
-  greetingAfternoon: 'Good Afternoon,',
+  greetingAfternoon: '"Wait and Hope" - Alexandre Dumas',
   greetingEvening: 'Good Evening,',
   greetingNight: 'Go to Sleep!',
 
