@@ -23,7 +23,7 @@ const CONFIG = {
   greetingNight: 'Go to Sleep!',
 
   // Layout
-  bentoLayout: 'lists', // 'bento', 'lists', 'buttons'
+  bentoLayout: 'bento', // 'bento', 'lists', 'buttons'
 
   // Weather
   weatherKey: '469c36f0b0eeb2b09439c9ec144fd4a2', // Write here your API Key
@@ -57,8 +57,8 @@ const CONFIG = {
     {
       id: '1',
       name: 'Drive',
-      icon: 'glasses',
-      link: 'https://drive.google.com/',
+      icon: 'folder',
+      link: 'https://drive.google.com/drive/my-drive',
     },
     {
       id: '2',
@@ -68,27 +68,27 @@ const CONFIG = {
     },
     {
       id: '3',
-      name: 'Investopedia',
-      icon: 'trello',
-      link: 'https://www.investopedia.com/',
+      name: 'Blender',
+      icon: 'box',
+      link: 'https://www.blender.org/',
     },
     {
       id: '4',
-      name: 'Calendar',
-      icon: 'calendar',
-      link: 'https://ccadebate.org/debate',
+      name: 'RSS Reader',
+      icon: 'rss',
+      link: 'http://192.168.33.100/freshrss/i/',
     },
     {
       id: '5',
-      name: 'IMSDB',
-      icon: 'glasses',
-      link: 'https://imsdb.com/',
+      name: 'YT',
+      icon: 'youtube',
+      link: 'https://www.youtube.com/feed/library',
     },
     {
       id: '6',
-      name: 'Ethos',
-      icon: 'calendar',
-      link: 'https://www.ethosdebate.com/blog/',
+      name: 'Tune My Music',
+      icon: 'list-music',
+      link: 'https://app.tunemymusic.com/transfer',
     },
   ],
 
