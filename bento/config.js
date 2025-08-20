@@ -143,11 +143,11 @@ const CONFIG = {
       links: [
         {
           name: 'CU Gmail',
-          link: 'https://mail.google.com/mail/u/2/#inbox',
+          link: 'https://mail.google.com/mail/u/1/#inbox',
         },
         {
           name: 'CU Drive',
-          link: 'https://drive.google.com/drive/folders/1ZgxxfS_P-PART8ryxRdj_gLtXYMHCS_r',
+          link: 'https://drive.google.com/drive/u/1/folders/1ZgxxfS_P-PART8ryxRdj_gLtXYMHCS_r',
         },
         {
           name: 'Canvas Dashboard',
