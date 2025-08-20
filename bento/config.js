@@ -22,7 +22,7 @@ const CONFIG = {
   greetingEvening: '"Even darkness must pass"',
   greetingNight: 'Go to Sleep!',
 
-  // Layout
+  // Layouts
   bentoLayout: 'bento', // 'bento', 'lists', 'buttons'
 
   // Weather
